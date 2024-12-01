@@ -1,0 +1,101 @@
+Food Item,Carbon kg CO2eq/kg,Category
+beer in can,0.69,Vegan
+beer in glass,0.96,Vegan
+beer modular can,0.53,Vegan
+chocolate or cream filled cookies,1.53,Vegan
+simple cookies,1.39,Vegan
+mineral water,0.49,Vegan
+bread multicereal,0.7,Vegan
+bread plain,0.89,Vegan
+bread whole,0.77,Vegan
+bread frozen,1.31,Vegan
+cornflakes,2.64,Vegan
+dark chocolate,2.71,Vegan
+milk chocolate,3.6,Vegetarian
+coffee ground,5.13,Vegan
+coffee parchment,8.29,Vegan
+coffee drip filtered,0.6,Vegan
+coffee soluble powder,0.33,Vegan
+espresso,0.55,Vegan
+flavored crackers,0.93,Vegan
+plain crackers,1.35,Vegan
+wholegrain crackers,0.97,Vegan
+crispbread,1.35,Vegan
+ketchup,1.46,Vegan
+mayonnaise,2.04,Vegetarian
+tempe’,1.1,Vegan
+egg pasta,3.15,Vegetarian
+raspberries (f),1.18,Vegan
+apple juice (i),2.84,Vegan
+blueberry juice (i),3.0,Vegan
+cranberry juice (i),2.88,Vegan
+fig juice (i),3.2,Vegan
+kiwi juice (i),2.84,Vegan
+mango juice (i),2.96,Vegan
+pineapple juice (i),2.78,Vegan
+strawberry juice (i),2.68,Vegan
+orange juice,0.46,Vegan
+pear juice,0.49,Vegan
+buckwheat flour,1.96,Vegan
+durum wheat,0.47,Vegan
+graham flour,0.47,Vegan
+maize flour,1.31,Vegan
+millet flour,1.37,Vegan
+oat meal,0.87,Vegan
+sorghum flour,1.33,Vegan
+wheat plain flour,0.52,Vegan
+whole wheat flour,0.36,Vegan
+chocolate,6.6,Vegan
+ice cream,1.02,Vegetarian
+vanilla,4.3,Vegan
+azuki bean flour,1.32,Vegan
+mung bean flour,1.49,Vegan
+soy meal,0.62,Vegan
+beans in can,0.11,Vegan
+green beans in can,1.45,Vegan
+beans (f),1.77,Vegan
+green beans (f),2.74,Vegan
+margarine*,1.39,Vegan
+almond covered with chocolate,4.8,Vegan
+hazelnut covered with chocolate,3.43,Vegan
+almond paste,2.98,Vegan
+hazelnut cream,2.71,Vegan
+hazelnut paste,1.69,Vegan
+peanut butter,1.15,Vegan
+peanut paste,1.84,Vegan
+olive oil,3.27,Vegan
+palm oil,2.43,Vegan
+peanut oil,2.9,Vegan
+rapeseed oil,1.79,Vegan
+soybean oil,1.79,Vegan
+sunflower oil,0.98,Vegan
+pasta,1.21,Vegan
+pesto,2.71,Vegan
+pesto without garlic,2.72,Vegan
+beet sugar,0.94,Vegan
+cane sugar,0.62,Vegan
+cakes and croissant,2.14,Vegetarian
+cocoa cakes and croissant,1.94,Vegetarian
+tomato chopped,1.47,Vegan
+tomato peeled,1.3,Vegan
+tomato puree,1.03,Vegan
+tomato & basil,1.14,Vegan
+tomato arrabbiata,1.24,Vegan
+carrots canned,1.6,Vegan
+corn canned,1.36,Vegan
+carrots (f),0.27,Vegan
+zucchini (f),1.35,Vegan
+soy cream,1.62,Vegetarian
+almond milk,0.42,Vegan
+coconut milk,0.41,Vegan
+rice milk,0.66,Vegan
+soy milk,0.78,Vegan
+quorne,2.5,Vegan
+soy burger,1.48,Vegan
+tofu,2.27,Vegan
+soy yogurt,1.36,Vegetarian
+wine red (see: box wine),0.87,Vegan
+wine white (see: box wine),0.44,Vegan
+yeast compressed,0.82,Vegan
+yeast dried,3.29,Vegan
+yeast liquid,0.5,Vegan

@@ -1,0 +1,56 @@
+Food Item,Carbon kg CO2eq/kg,Category
+diamond fish,6.02,Fish
+eel,3.88,Fish
+fish mixed,4.99,Fish
+flatfish,6.41,Fish
+flathead,2.56,Fish
+fork beard,8.01,Fish
+haddock,3.1,Fish
+hake,10.4,Fish
+herring,1.24,Fish
+ling,6.45,Fish
+mackerel,1.8,Fish
+megrim,14.15,Fish
+pilchard,1.1,Fish
+plaice,6.13,Fish
+pollock,1.4,Fish
+pomfret,6.63,Fish
+porbeagle,11.44,Fish
+rhombus,8.41,Fish
+rock fish,6.94,Fish
+salmon,3.37,Fish
+sardine,0.9,Fish
+sea-bass,3.6,Fish
+shark,11.44,Fish
+sole,5.4,Fish
+swardfish,12.84,Fish
+trout,4.2,Fish
+tuna,3.68,Fish
+turbot,14.51,Fish
+whiting,2.66,Fish
+cod (f),3.03,fish frozen
+fish stick (f),2.26,fish frozen
+haddock (f),3.72,fish frozen
+herring (f),1.3,fish frozen
+mackerel (f),0.99,fish frozen
+mixed fish (f),1.04,fish frozen
+pollock (f),0.9,fish frozen
+pollock stick (f),2.14,fish frozen
+salmon (f),1.61,fish frozen
+sole (f),14.28,fish frozen
+trout (f),4.38,fish frozen
+tuna (f),2.64,fish frozen
+cod fish stick,2.14,fish processed
+hake fish stick,2.14,fish processed
+makerel fish stick,1.02,fish processed
+tuna in can,2.1,fish processed
+barnacle,2.3,shellfish
+krill,5.54,shellfish
+lobster,20.25,shellfish
+mussels,0.46,shellfish
+cuttlefish,5.05,shellfish
+octopus,5.8,shellfish
+squid,6.91,shellfish
+prawns/shrimps,7.04,shellfish
+octopus (f),7.88,shellfish frozen
+prawns/shrimps (f),15.07,shellfish frozen
