@@ -1,5 +1,5 @@
 # MachineLearning
-This project provides models to predict and recommend options for reducing carbon emissions in two key domains: Meals and Transportation. The system uses machine learning to calculate and suggest alternatives with lower carbon footprints, helping users make more sustainable choices.
+This project provides models based on mobile development's design to predict and recommend options for reducing carbon emissions in two key domains: Meals and Transportation. The system uses machine learning to calculate and suggest alternatives with lower carbon footprints, helping users make more sustainable choices.
 
 ## Features
 **1. Meals Model**
