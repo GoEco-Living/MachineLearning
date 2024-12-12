@@ -17,3 +17,15 @@ This project provides models based on mobile development's design to predict and
 * Numpy
 * Scikit-learn
 * Matplotlib (optional, for visualizations)
+
+## Public Dataset
+### Transport Dataset : 
+* https://www.kaggle.com/datasets/naveennas/sustainable-lifestyle-rating-dataset
+* https://www.kaggle.com/datasets/dumanmesut/individual-carbon-footprint-calculation/data
+* https://www.kaggle.com/datasets/iamsebj/university-student-carbon-footprint-knowledge
+* https://www.bts.gov/browse-statistical-products-and-data/national-transportation-statistics/transportation-related
+### Food Dataset
+* https://www.kaggle.com/datasets/dumanmesut/individual-carbon-footprint-calculation
+* https://www.kaggle.com/datasets/uykuite/food-carbon-footprint-datasets
+* https://www.kaggle.com/datasets/harshilb123/carbon-footprint-value-in-different-food-items
+* https://www.kaggle.com/datasets/naveennas/sustainable-lifestyle-rating-dataset
